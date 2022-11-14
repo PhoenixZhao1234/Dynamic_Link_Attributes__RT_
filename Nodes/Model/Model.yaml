@@ -1,0 +1,10 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Variable1
+  Id: g=8da8cbfc34815459d244c423864e5e37
+  Type: BaseDataVariableType
+  DataType: Int32
+  DisplayName: {"LocaleId":"en-US","Text":"Variable1 Display Name"}
+  Description: {"LocaleId":"en-US","Text":"Variable1 Description"}
+  Value: 99

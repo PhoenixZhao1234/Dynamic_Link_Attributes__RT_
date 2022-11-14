@@ -1,0 +1,8 @@
+Name: Tags
+Type: BaseObjectType
+Children:
+- Name: ModbusTag1
+  Id: g=26734adaed27f2cb38c3264e3350cdad
+  Type: ModbusTag
+  DataType: Int32
+  Value: 0
